@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>neofetch</title>
+<style>
+  html, body {
+    background: #000000;
+    margin: 0;
+  }
+  body {
+    padding: 30px;
+    font-family: 'DejaVu Sans Mono', 'Consolas', 'Courier New', monospace;
+  }
+  .wrap {
+    display: flex;
+    gap: 36px;
+  }
+  pre {
+    margin: 0;
+    font-size: 14px;
+    line-height: 18px;
+    white-space: pre;
+  }
+  .art {
+    font-weight: bold;
+    letter-spacing: 0;
+  }
+  /* two-tone shading to mimic the depth in the original */
+  .art .dim   { color: #7a0000; }
+  .art .mid   { color: #b30000; }
+  .art .bright{ color: #ff2b2b; }
+
+  .info { font-size: 14px; line-height: 18px; }
+  .host  { color: #ffffff; font-weight: bold; }
+  .at    { color: #cc0000; font-weight: bold; }
+  .sep   { color: #7a7a7a; }
+  .row   { }
+  .label { font-weight: bold; display: inline-block; min-width: 108px; }
+  .white  { color: #f2f2f2; }
+  .yellow { color: #f1c40f; }
+  .cyan   { color: #29d6d6; }
+  .green  { color: #2ecc40; }
+  .blue   { color: #4ea1f7; }
+  .magenta{ color: #d670d6; }
+  .blank  { height: 18px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<pre class="art"><span class="dim">                             ....</span>
+<span class="dim">              ..,,</span><span class="mid">ooOOO</span><span class="dim">,  .,</span><span class="mid">oOOOOO</span><span class="dim">,.</span>
+<span class="dim">           .;</span><span class="mid">oOOOOOOOOo</span><span class="dim">  .</span><span class="bright">OOOOOOOOOO</span><span class="dim">.</span>
+<span class="dim">        .;</span><span class="mid">oOOOOOOo</span><span class="dim">,,...  ,</span><span class="bright">OOOOOOOOOOo</span>
+<span class="dim">       ;</span><span class="mid">oOOOOo</span><span class="dim">;.         .</span><span class="bright">OOOOOOOOOO</span><span class="dim">,</span>
+<span class="dim">      ;oo</span><span class="mid">OOo</span><span class="dim">.             .</span><span class="mid">oOOOOOOo</span><span class="dim">.  ,,</span>
+<span class="dim">         ...                ......  .,</span><span class="mid">OO</span><span class="dim">,</span>
+<span class="dim">  .;oo</span><span class="mid">Oo</span><span class="dim">,,.                        .</span><span class="mid">oOOOO</span><span class="dim">.</span>
+<span class="dim"> ,</span><span class="mid">OOOOOOOOO</span><span class="dim">,                        .</span><span class="mid">OOOOo</span>
+<span class="mid">.OOOOOOOOOOO</span><span class="dim">.                        </span><span class="mid">oOOOO</span><span class="dim">.</span>
+<span class="mid">.OOOOOOOOOOo</span><span class="dim">                         </span><span class="mid">oOOOO</span><span class="dim">.</span>
+<span class="dim"> ,o</span><span class="mid">OOOOOOOo</span><span class="dim">.                        .</span><span class="mid">oOOOO</span><span class="dim">.</span>
+<span class="dim">   .,;;;..                          ;</span><span class="mid">OOOOo</span>
+<span class="dim">       ...                         ,</span><span class="mid">OOOOo</span><span class="dim">.</span>
+<span class="dim">    .</span><span class="mid">oOOOOo</span><span class="dim">.              ...,,..  .</span><span class="mid">oOOO</span><span class="dim">.</span>
+<span class="dim">      ;</span><span class="mid">OOOOO</span><span class="dim">,.           ;</span><span class="mid">OOOOOOOo</span><span class="dim">.  ,o.</span>
+<span class="dim">       .</span><span class="mid">oOOOOOo</span><span class="dim">,..      </span><span class="mid">oOOOOOOOOOO</span><span class="dim">.</span>
+<span class="dim">         .,</span><span class="mid">OOOOOOOoo</span><span class="dim">,. .</span><span class="mid">OOOOOOOOOOO</span><span class="dim">.</span>
+<span class="dim">           ..,</span><span class="mid">oOOOOOO</span><span class="dim">;  ,</span><span class="mid">OOOOOOOOOo</span>
+<span class="dim">               ...;,,o.  .;</span><span class="mid">oOOOO</span><span class="dim">,.</span></pre>
+<div class="info">
+<div><span class="host">nikhilguleria</span><span class="at">@</span><span class="host">nikhilguleria-IdeaPad-Gaming-3-15IHU6</span></div>
+<div class="sep">-----------------------------------------------</div>
+<div class="row"><span class="label yellow">Role:</span><span class="white">Software Engineer</span></div>
+<div class="row"><span class="label yellow">Location:</span><span class="white">India</span></div>
+<div class="blank"></div>
+<div class="row"><span class="label cyan">Languages:</span><span class="white">JavaScript/TypeScript, Python, Go, C/C++, a</span></div>
+<div class="row"><span class="label green">Frontend:</span><span class="white">React, Next.js, Astro, HTMX, Tailwind CSS</span></div>
+<div class="row"><span class="label blue">Backend:</span><span class="white">Node.js, Express, FastAPI, Django</span></div>
+<div class="row"><span class="label magenta">Database:</span><span class="white">PostgreSQL, MySQL, MongoDB, Redis</span></div>
+<div class="row"><span class="label yellow">DevOps:</span><span class="white">Docker, Git, GitHub Actions, Nginx</span></div>
+<div class="row"><span class="label cyan">Cloud:</span><span class="white"> AWS, Vercel</span></div>
+<div class="row"><span class="label green">Systems:</span><span class="white"> Linux (Ubuntu/Debian), Bash, SSH, systemd</span></div>
+<div class="blank"></div>
+<div class="blank"></div>
+<div class="row"><span class="label yellow">Projects:</span><span class="white">CypherTalk</span></div>
+<div class="row"><span class="label" style="min-width:108px;"></span><span class="blue">Code Sync</span></div>
+<div class="row"><span class="label" style="min-width:108px;"></span><span class="green">Portfolio Website</span></div>
+<div class="blank"></div>
+<div class="blank"></div>
+<div class="row"><span class="label yellow">GitHub:</span><span class="white">github.com/NikhilGuleria2004</span></div>
+<div class="row"><span class="label green">Email:</span><span class="yellow">nikhilguleria20004@gmail.com</span></div>
+</div>
+</div>
+</body>
+</html>
