@@ -1,4 +1,5 @@
-<div align="center">
+![Logo](./logo.svg)
+<!-- <div align="center">
 
 <pre>
 
@@ -27,6 +28,7 @@ Dev.Systems:............. Linux(Ubuntu, Debian), Bash, SSH, systemd
 <!--Hobbies.Software:.............. Minecraft Modding, Open Source
 Hobbies.Hardware:.............. PC Building, Homelab
 -->
+<!--
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────
 Contact                                                                  GitHub Stats
 Email.Personal:................ nikhilguleria20004@gmail.com             Repositories:.................. 17
@@ -35,6 +37,7 @@ LinkedIn:...................... linkedin.com/in/yourname                 Followi
 Leetcode:...................... leetcode.com/username                    Stars:......................... 0
 
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────
+-->
 <!--Learning:...................... Rust, Kubernetes 
 Currently:..................... Building cool projects 
 Uptime:........................ 22 Years 
@@ -43,7 +46,8 @@ Kernel:........................ Human v1.0
 Host:.......................... Your PC 
 OS:............................ Windows 11 / Linux(UBUNTU, DEBIAN)
 -->
+<!--
 </pre>
 
 </div>
-
+ -->
