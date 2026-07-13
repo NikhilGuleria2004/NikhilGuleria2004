@@ -17,13 +17,13 @@ $$ | \$$ |$$ |$$ | \$$\ $$ |  $$ |$$ |$$ |\$$$$$$  |\$$$$$$  |$$ |\$$$$$$$\ $$ |
   
 github.com/NikhilGuleria2004                                           My@github
 ───────────────────────────────────────────────────────────────────────────────────────────────────────────
-OS:............................ Windows 11 / Linux(UBUNTU, DEBIAN)       Dev.Languages:........... Javascript/Typescript, Python, Go, Java,  C/C++
-Host:.......................... Your PC                                  Dev.Web:................. React, Next, Astro, HTMX, Node, Express, FastAPI, Gin, Hono, Tailwind CSS
-Kernel:........................ Human v1.0                               Dev.Database:............ MySQL, PostgreSQL, MongoDB, Redis
-IDE:........................... VS Code, IntelliJ IDEA                   Dev.Database:............ MySQL, PostgreSQL, MongoDB, Redis
-Uptime:........................ 22 Years                                 Dev.Tools:............... Git, Docker, Github Actions, Nginx
-Currently:..................... Building cool projects                   Dev.Cloud:............... AWS, Vercel, Cloudflare Pages
-Learning:...................... Rust, Kubernetes                         Dev.Systems:............. Linux(Ubuntu, Debian), Bash, SSH, systemd
+Dev.Languages:........... Javascript/Typescript, Python, Go, Java,  C/C++
+Dev.Web:................. React, Next, Astro, HTMX, Node, Express, FastAPI, Gin, Hono, Tailwind CSS
+Dev.Database:............ MySQL, PostgreSQL, MongoDB, Redis
+Dev.Database:............ MySQL, PostgreSQL, MongoDB, Redis
+Dev.Tools:............... Git, Docker, Github Actions, Nginx
+Dev.Cloud:............... AWS, Vercel, Cloudflare Pages
+Dev.Systems:............. Linux(Ubuntu, Debian), Bash, SSH, systemd
 <!--Hobbies.Software:.............. Minecraft Modding, Open Source
 Hobbies.Hardware:.............. PC Building, Homelab
 -->
@@ -35,6 +35,14 @@ LinkedIn:...................... linkedin.com/in/yourname                 Followi
 Leetcode:...................... leetcode.com/username                    Stars:......................... 0
 
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────
+<!--Learning:...................... Rust, Kubernetes 
+Currently:..................... Building cool projects 
+Uptime:........................ 22 Years 
+IDE:........................... VS Code, IntelliJ IDEA   
+Kernel:........................ Human v1.0 
+Host:.......................... Your PC 
+OS:............................ Windows 11 / Linux(UBUNTU, DEBIAN)
+-->
 </pre>
 
 </div>
