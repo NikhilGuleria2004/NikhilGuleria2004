@@ -1,4 +1,4 @@
-![Logo](./logo.svg)
+![Logo](./profile.svg)
 <!-- <div align="center">
 
 <pre>
