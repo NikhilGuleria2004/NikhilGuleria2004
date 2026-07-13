@@ -16,47 +16,25 @@ $$ | \$$ |$$ |$$ | \$$\ $$ |  $$ |$$ |$$ |\$$$$$$  |\$$$$$$  |$$ |\$$$$$$$\ $$ |
 <pre>
   
 github.com/NikhilGuleria2004                                           My@github
-────────────────────────────────────────────────────────────────────────────────
-
-OS:............................ Windows 11 / Linux(UBUNTU, DEBIAN)
-Host:.......................... Your PC
-Kernel:........................ Human v1.0
-IDE:........................... VS Code, IntelliJ IDEA
-Uptime:........................ 22 Years
-
-Dev.Languages:........... Javascript/Typescript, Python, Go, Java,  C/C++
-Dev.Web:................. React, Next, Astro, HTMX, Node, Express, FastAPI, Gin, Hono, Tailwind CSS
-Dev.Database:............ MySQL, PostgreSQL, MongoDB, Redis
-Dev.Tools:............... Git, Docker, Github Actions, Nginx
-Dev.Cloud:............... AWS, Vercel, Cloudflare Pages
-Dev.Systems:............. Linux(Ubuntu, Debian), Bash, SSH, systemd
-
-
-Currently:..................... Building cool projects
-Learning:...................... Rust, Kubernetes
-
+───────────────────────────────────────────────────────────────────────────────────────────────────────────
+OS:............................ Windows 11 / Linux(UBUNTU, DEBIAN)       Dev.Languages:........... Javascript/Typescript, Python, Go, Java,  C/C++
+Host:.......................... Your PC                                  Dev.Web:................. React, Next, Astro, HTMX, Node, Express, FastAPI, Gin, Hono, Tailwind CSS
+Kernel:........................ Human v1.0                               Dev.Database:............ MySQL, PostgreSQL, MongoDB, Redis
+IDE:........................... VS Code, IntelliJ IDEA                   Dev.Database:............ MySQL, PostgreSQL, MongoDB, Redis
+Uptime:........................ 22 Years                                 Dev.Tools:............... Git, Docker, Github Actions, Nginx
+Currently:..................... Building cool projects                   Dev.Cloud:............... AWS, Vercel, Cloudflare Pages
+Learning:...................... Rust, Kubernetes                         Dev.Systems:............. Linux(Ubuntu, Debian), Bash, SSH, systemd
 <!--Hobbies.Software:.............. Minecraft Modding, Open Source
 Hobbies.Hardware:.............. PC Building, Homelab
 -->
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+Contact                                                                  GitHub Stats
+Email.Personal:................ nikhilguleria20004@gmail.com             Repositories:.................. 17
+Portfolio:..................... https://devsite.rip                      Followers:..................... 1
+LinkedIn:...................... linkedin.com/in/yourname                 Following:..................... 1
+Leetcode:...................... leetcode.com/username                    Stars:......................... 0
 
-────────────────────────────────────────────────────────────────────────────────
-
-Contact
-
-Email.Personal:................ nikhilguleria20004@gmail.com
-Portfolio:..................... https://devsite.rip
-LinkedIn:...................... linkedin.com/in/yourname
-Leetcode:...................... leetcode.com/username
-
-────────────────────────────────────────────────────────────────────────────────
-
-GitHub Stats
-
-Repositories:.................. 17
-Followers:..................... 1
-Following:..................... 1
-Stars:......................... 0
-Contributions:................. 0
+────────────────────────────────────────────────────────────────────────────────────────────────────────────
 </pre>
 
 </div>
