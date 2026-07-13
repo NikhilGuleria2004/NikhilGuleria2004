@@ -1,40 +1,94 @@
 <div align="center">
 
-<img src="profile.png" alt="Terminal Profile" width="1000">
+```text
 
-</div>
+$$\   $$\ $$\ $$\       $$\       $$\ $$\  $$$$$$\            $$\                     $$\           
+$$$\  $$ |\__|$$ |      $$ |      \__|$$ |$$  __$$\           $$ |                    \__|          
+$$$$\ $$ |$$\ $$ |  $$\ $$$$$$$\  $$\ $$ |$$ /  \__|$$\   $$\ $$ | $$$$$$\   $$$$$$\  $$\  $$$$$$\  
+$$ $$\$$ |$$ |$$ | $$  |$$  __$$\ $$ |$$ |$$ |$$$$\ $$ |  $$ |$$ |$$  __$$\ $$  __$$\ $$ | \____$$\ 
+$$ \$$$$ |$$ |$$$$$$  / $$ |  $$ |$$ |$$ |$$ |\_$$ |$$ |  $$ |$$ |$$$$$$$$ |$$ |  \__|$$ | $$$$$$$ |
+$$ |\$$$ |$$ |$$  _$$<  $$ |  $$ |$$ |$$ |$$ |  $$ |$$ |  $$ |$$ |$$   ____|$$ |      $$ |$$  __$$ |
+$$ | \$$ |$$ |$$ | \$$\ $$ |  $$ |$$ |$$ |\$$$$$$  |\$$$$$$  |$$ |\$$$$$$$\ $$ |      $$ |\$$$$$$$ |
+\__|  \__|\__|\__|  \__|\__|  \__|\__|\__| \______/  \______/ \__| \_______|\__|      \__| \_______|
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                            YOUR_USERNAME@github
+────────────────────────────────────────────────────────────────────────────────
 
----
+OS:............................ Windows 11 / Linux(UBUNTU, DEBIAN)
+Host:.......................... Your PC
+Kernel:........................ Human v1.0
+IDE:........................... VS Code, IntelliJ IDEA
+Uptime:........................ 22 Years
 
-## 👋 About Me
+Dev.Languages:......... Javascript/Typescript, Python, Go, Java,  C/C++
+Dev.Web:................. React, Next, Astro, HTMX, Node, Express, FastAPI, Gin, Hono, Tailwind CSS
+Dev.Database:............ MySQL, PostgreSQL, MongoDB, Redis
+Dev.Tools:............... Git, Docker, Github Actions, Nginx
+Dev.Cloud:............... AWS, Vercel, Cloudflare Pages
+Dev.Systems:............. Linux(Ubuntu, Debian), Bash, SSH, systemd
 
-I'm Nikhil, a Computer Science student and full-stack developer from India.
 
-- 🐧 Ubuntu user
-- ⚛️ Learning Astro + HTMX
-- 🚀 Building full-stack web applications
-- 💡 Interested in Linux, web development, and open source
+Currently:..................... Building cool projects
+Learning:...................... Rust, Kubernetes
 
----
+<!--Hobbies.Software:.............. Minecraft Modding, Open Source
+Hobbies.Hardware:.............. PC Building, Homelab
+-->
 
-## 🚀 Featured Projects
+────────────────────────────────────────────────────────────────────────────────
 
-- **CypherTalk** – End-to-end encrypted chat application
-- **Code Sync** – Collaborative online code editor
-- **Portfolio Website** – Built with Astro + HTMX
+Contact
 
----
+Email.Personal:................ nikhilguleria20004@gmail.com
+Portfolio:..................... https://devsite.rip
+LinkedIn:...................... linkedin.com/in/yourname
+Leetcode:...................... leetcode.com/username
 
-## 📊 GitHub Stats
+────────────────────────────────────────────────────────────────────────────────
+
+GitHub Stats
+
+Repositories:.................. 17
+Followers:..................... 1
+Following:..................... 1
+Stars:......................... 0
+Contributions:................. 0
+
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhilGuleria2004&show_icons=true&theme=tokyonight&hide_border=true">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilGuleria2004&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 🌐 Connect
+### 🛠 Tech Stack
 
-- GitHub: https://github.com/NikhilGuleria2004
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,postgres,mongodb,git,github,docker,linux,vscode,idea&perline=10"/>
+</p>
+
+### 📫 Connect
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+</p>
+
+</div>
