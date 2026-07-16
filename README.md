@@ -1,4 +1,4 @@
-[Logo](./fitzcarraldo.jpg)
+![Logo](./fitzcarraldo.jpg)
 
 <!-- <pre>
   ██████   █████  ███  █████      █████       ███  ████           
