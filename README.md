@@ -4,4 +4,4 @@
   <code><a href="https://www.linkedin.com/in/nikhil-guleria-2b1b4b288/">linkedin</a></code>
 </p>
 
-![Logo](./fitzcarraldo.jpg)
+<!--![Logo](./fitzcarraldo.jpg)-->
